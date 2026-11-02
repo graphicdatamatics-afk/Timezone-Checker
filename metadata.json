@@ -1,0 +1,6 @@
+{
+  "name": "VibeClock — Multi-Timezone Team Planner",
+  "description": "Vibe-coded 12-hour global timezone synchronizer and meeting planner with priority support for Bangalore, Philippines, Chicago, and Lehi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
